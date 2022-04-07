@@ -7,8 +7,8 @@
 }
 
 body{
-    margin: 100px;
-    padding: 100px;
+    margin: 5rem;
+    padding: 5rem;
     font-family: 'Poppins', sans-serif;
     background-color: #101214;
     color: #7A7C80;
@@ -27,7 +27,7 @@ a{
 
 .responsive {
   width: 100%
-  max-width: 400px;
+  max-width: 200px;
   height: auto;
 }
 

@@ -63,12 +63,9 @@ a{
         grid-template-columns: 1fr;
     }
     .section-1{
-        padding:0;
+        padding:5rem;
         padding-top: 5rem;
-    }
-    .section-2{
-        padding: 0;
-        padding-left: 1.5rem;
-        padding-top: 2rem;
+        padding-left: 5rem;
+        paddinf-right: 5rem;
     }
 }

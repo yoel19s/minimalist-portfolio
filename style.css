@@ -63,7 +63,7 @@ a{
         grid-template-columns: 1fr;
     }
     .section-1{
-        padding:5rem;
+        padding:0;
         padding-top: 5rem;
     
     }

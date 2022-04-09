@@ -205,10 +205,19 @@ body, html {
 }
 
 #html-bar{
-    animation: html-fill 2s forwards;
+    animation: html-fill 3s forwards;
 }
 @keyframes html-fill{
     100%{
-        width: 90%;
+        width: 87%;
+    }
+}
+
+#css{
+    animation: html-fill 3s forwards;
+}
+@keyframes html-fill{
+    100%{
+        width: 64%;
     }
 }

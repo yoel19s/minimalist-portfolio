@@ -205,7 +205,7 @@ body, html {
 }
 
 #html-bar{
-    animation: html-fill 3s forwards;
+    animation: html-fill 4.3s forwards;
 }
 @keyframes html-fill{
     100%{

@@ -216,7 +216,7 @@ body, html {
 #css{
     animation: html-fill 3s forwards;
 }
-@keyframes html-fill{
+@keyframes css{
     100%{
         width: 64%;
     }

@@ -198,3 +198,17 @@ body, html {
     border-radius: 10px;
     background-color: #0d96e0;
 
+}
+
+.skills:not(:last-child){
+    margin-bottom: 30px;
+}
+
+#html-bar{
+    animation: html-fill 2s forwards;
+}
+@keyframes html-fill{
+    100%{
+        width: 90%;
+    }
+}

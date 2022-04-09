@@ -1,5 +1,5 @@
 /* global */
-@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
 
 .grid-2{
     display: grid;
@@ -9,7 +9,7 @@
 body{
     margin: 0;
     padding: 1.7rem;
-    font-family: 'Grape+Nuts', cursive;
+    font-family: 'Inconsolata', monoscape;
     background-color: #101214;
     color: #7A7C80;
 
